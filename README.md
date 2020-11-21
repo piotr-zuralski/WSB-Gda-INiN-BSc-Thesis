@@ -1,2 +1,3 @@
-# WSB-Gda-Inzynierska-prac-dyplomowa
+# WSB Gda BSc Thesis
+
 Inżynierska praca dyplomowa
